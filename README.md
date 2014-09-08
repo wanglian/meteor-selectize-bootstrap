@@ -6,12 +6,15 @@
 
 `meteor add jeremy:selectize`
 
-This Meteor package currently only loads the plugin (with stylesheet).  Just add to you app and set it up manually as you would in any other application.
+This Meteor package currently only loads the plugin (with stylesheet).  Just add to your app and set it up manually as you would in any other application.
 
 
 [Homepage](http://brianreavis.github.io/selectize.js/)
+
 [Github](https://github.com/brianreavis/selectize.js)
+
 [Documentation](https://github.com/brianreavis/selectize.js/tree/master/docs)  
+
 [Examples](https://github.com/brianreavis/selectize.js/tree/master/examples)
 
 
