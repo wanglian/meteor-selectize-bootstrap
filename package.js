@@ -1,13 +1,13 @@
 Package.describe({
     name: "jeremy:selectize",
     summary: "Selectize is a hybrid of a textbox and <select> element used for tagging, contact lists, and more.",
-    version: '0.1.0',
+    version: '0.1.2',
     git: 'https://github.com/jshimko/meteor-selectize.git'
 });
 
 Package.onUse(function(api) {
 
-    api.versionsFrom("METEOR@0.9.0");
+    api.versionsFrom("METEOR@0.9.1.1");
 
     api.use('jquery', 'client');
 
