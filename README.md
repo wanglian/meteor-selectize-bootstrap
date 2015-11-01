@@ -6,7 +6,7 @@ v0.12.1
 
 ## Install
 
-`meteor add jeremy:selectize`
+`meteor add jamiecollinson:selectize-bootstrap`
 
 This Meteor package currently only loads the plugin (with stylesheet).  Just add to your app and set it up manually as you would in any other application.
 
