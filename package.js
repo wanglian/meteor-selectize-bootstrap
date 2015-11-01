@@ -1,8 +1,8 @@
 Package.describe({
-  name: "jeremy:selectize",
-  summary: "Selectize is a hybrid of a textbox and <select> element used for tagging, contact lists, and more.",
-  version: '0.12.1_4',
-  git: 'https://github.com/jshimko/meteor-selectize.git'
+  name: "jamiecollinson:selectize-bootstrap",
+  summary: "Selectize v0.12.1 is a hybrid of a textbox and <select> element used for tagging, contact lists, and more. This version includes bootstrap 3 styles.",
+  version: '0.12.1',
+  git: 'https://github.com/jamiecollinson/meteor-selectize.git'
 });
 
 Package.onUse(function(api) {
@@ -12,7 +12,7 @@ Package.onUse(function(api) {
   api.use('jquery', 'client');
 
   api.addFiles([
-    'selectize/dist/css/selectize.default.css',
+    'selectize/dist/css/selectize.bootstrap3.css',
     'selectize/dist/js/standalone/selectize.js'
   ], ['client']);
 
